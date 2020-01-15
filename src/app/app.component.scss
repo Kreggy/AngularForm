@@ -1,0 +1,13 @@
+.box {
+  text-align: center;
+  border: solid 1px;
+  border-color: gray;
+  min-width: 400px;
+  min-height: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  box-shadow: 2px 2px;
+}
